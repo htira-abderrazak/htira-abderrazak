@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm htira abderrazak</h1>
-<h3 align="center">A passionate software developer from Tunisia</h3>
+<h3 align="center">A passionate software engineering masters from Tunisia</h3>
 
 - 📫 How to reach me **abderrazak.htira@gmail.com**
 
